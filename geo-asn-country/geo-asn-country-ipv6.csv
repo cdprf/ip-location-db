@@ -19352,6 +19352,9 @@
 2602:815:e000::,2602:815:e0ff:ffff:ffff:ffff:ffff:ffff,US
 2602:815:f000::,2602:815:f00f:ffff:ffff:ffff:ffff:ffff,US
 2602:816::,2602:816:f:ffff:ffff:ffff:ffff:ffff,US
+2602:816:1000::,2602:816:100f:ffff:ffff:ffff:ffff:ffff,US
+2602:fa1d::,2602:fa1d:fff:ffff:ffff:ffff:ffff:ffff,US
+2602:fa1e::,2602:fa1e:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa1f::,2602:fa1f:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa20::,2602:fa20:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa21::,2602:fa21:ff:ffff:ffff:ffff:ffff:ffff,US
