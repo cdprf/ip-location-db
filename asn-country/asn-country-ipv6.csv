@@ -19349,6 +19349,7 @@
 2602:815:f000::,2602:815:f00f:ffff:ffff:ffff:ffff:ffff,US
 2602:816::,2602:816:f:ffff:ffff:ffff:ffff:ffff,US
 2602:816:1000::,2602:816:100f:ffff:ffff:ffff:ffff:ffff,US
+2602:fa16::,2602:fa16:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa17::,2602:fa17:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa18::,2602:fa18:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:fa19::,2602:fa19:ff:ffff:ffff:ffff:ffff:ffff,US
@@ -19498,7 +19499,7 @@
 2602:faa9::,2602:faa9:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:faaa::,2602:faaa:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:faab::,2602:faab:fff:ffff:ffff:ffff:ffff:ffff,US
-2602:faac::,2602:faac:ff:ffff:ffff:ffff:ffff:ffff,US
+2602:faac::,2602:faac:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:faad::,2602:faad:ff:ffff:ffff:ffff:ffff:ffff,GB
 2602:faae::,2602:faae:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:faaf::,2602:faaf:ff:ffff:ffff:ffff:ffff:ffff,US
